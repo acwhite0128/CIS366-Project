@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace DBLoginForm
 {
-    public partial class loginForm : Form
+    public partial class loggedInForm : Form
     {
-        public loginForm()
+        public loggedInForm()
         {
             InitializeComponent();
         }
